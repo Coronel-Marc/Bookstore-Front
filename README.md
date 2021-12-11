@@ -9,3 +9,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Projeto DIO
 
 Este projeto foi feito através de live coding disponibilizado na DIO.ME, feito pela Nathalia Correa.
+
+O Projeto tem como objetivo juntar a API da livraria com este front, utilizando os dados da API para fazer uma livraria.
