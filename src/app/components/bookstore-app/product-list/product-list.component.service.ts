@@ -6,7 +6,7 @@ import { Book } from "./model/Book";
 @Injectable()
 
 export class BookService{
-    private url = 'localhost:44387/api/livraria';
+    private url = 'localhost:44387/livraria';
 
     httpOptions = {
         Headers: new HttpHeaders({'content-type': 'application/json'})
